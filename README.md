@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=925CB4&height=120&section=header"/>
 
-## Hello! My name is Matheus Vieira
+## Hello! My name is Rafaell Maurício
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thevsma&show_icons=true&count_private=true&hide_border=true&title_color=925CB4&icon_color=925CB4&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Vieira github stats" /> 
